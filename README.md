@@ -11,7 +11,7 @@ The SDE Team Development Hub is a collaboration between like-minded individuals 
 
 ## Competency Framework
 - Development process
-- Documentation (https://uom-data-science-platforms.github.io/sde-skills/skills_matrix)
+- [Documentation](https://uom-data-science-platforms.github.io/sde-skills/skills_matrix)
 
 # Key Contacts & Team Structure
 Each intern will be resident at one of the three partner sitorganisations and will report to the designated team co-I. Further information on the wider project team can be found [here](https://uom-data-science-platforms.github.io/sde-skills/about/).  
