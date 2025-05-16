@@ -48,7 +48,7 @@ KRAP is open-source, comprising a series of code repositories accessible [here](
 ??
 
 
-# SDE Standards & Best Practice
+# SDE Governance & Standards
 - [SATRE](https://satre-specification.readthedocs.io/en/stable/)
 - [5 Safes Framework](https://ukdataservice.ac.uk/help/secure-lab/what-is-the-five-safes-framework/)
 
