@@ -51,9 +51,9 @@ KRAP is open-source, comprising a series of code repositories accessible [here](
 # Support Materials & Courses
 
 ## SDE Online Courses
-- 
+- [Microsoft Learn - Secure Data Environments](https://learn.microsoft.com/en-gb/collections/p38efw2np3xq37). Zero to hero training for people managing, deploying and maintaining Trusted Research Environments (TREs), Secure Data Environments (SDEs) and Secure Data Platforms (SDPs) across healthcare and research. 
 
-## Cloud Frameworks
+## SDE Cloud Frameworks
 - [AzureTRE](https://microsoft.github.io/AzureTRE/latest/)
 - [AWS]()
 - [GCP]()
